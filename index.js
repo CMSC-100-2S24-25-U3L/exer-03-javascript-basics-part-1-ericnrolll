@@ -1,3 +1,7 @@
+// SINDAYEN, FREDERICK D.
+// 2022-01014
+// CMSC 100 - U3L
+// This program validates, reverses, and stores passwords to an object.
 
 function validatePassword(password1, password2) {
     if (password1 === password2) { // check if the two passwords are the same
