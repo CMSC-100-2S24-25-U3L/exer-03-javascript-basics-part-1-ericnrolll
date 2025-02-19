@@ -1,6 +1,9 @@
 
-string0 = ''
-string1 = 'abcd'
+const person = {
+    name: 'Tim Berners-Lee',
+    age: 66,
+    gender: 'male',
+    interests: ['physics', 'web']
+    }
 
-
-console.log(string0.length)
+console.log(person)
